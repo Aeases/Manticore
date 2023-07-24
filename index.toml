@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "9294808eaeacbec10f8e8d67e53a21ac03ae3267220a223982275a2f13bb486e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/touhou-origins.pw.toml"
 hash = "3c7bf9d7ea0184d5fab57225defe057ef8583b214e90f0c868b769eca6740321"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
 metafile = true
 
 [[files]]
