@@ -9,5 +9,6 @@
     "gitlens.plusFeatures.enabled": false,
     "gitlens.statusBar.enabled": true,
     "gitlens.graph.minimap.dataType": "commits",
-    "workbench.iconTheme": "mc-dp-icons"
+    "workbench.iconTheme": "mc-dp-icons",
+    "workbench.editorAssociations": {"*.md": "vscode.markdown.preview.editor"}
 }
