@@ -9,6 +9,5 @@
     "gitlens.plusFeatures.enabled": false,
     "gitlens.statusBar.enabled": true,
     "gitlens.graph.minimap.dataType": "commits",
-    "workbench.colorTheme": "Theme",
     "workbench.iconTheme": "mc-dp-icons"
 }
