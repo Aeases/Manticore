@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "82a31265d90c885eadccd59c2a35ef795fd526865091243933d52717ef1db4be"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "9294808eaeacbec10f8e8d67e53a21ac03ae3267220a223982275a2f13bb486e"
 metafile = true
@@ -11,6 +16,11 @@ hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76bff6c00431ae14e0de961cf30f2a950fb1dd46da429145f235a9b0adbecd7b"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
 
 [[files]]
@@ -58,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "59b52d98ac8d353d1edeb641fad962a98fbcdd7f0d5d5edfc59b1c892ab25389"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "566d54d31ab010faf4d878faf2ef843b7de2e397356dc1e348ca44a0fbef7e41"
 metafile = true
 
 [[files]]
