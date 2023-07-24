@@ -39,3 +39,8 @@ metafile = true
 file = "mods/wakes.pw.toml"
 hash = "59b52d98ac8d353d1edeb641fad962a98fbcdd7f0d5d5edfc59b1c892ab25389"
 metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
