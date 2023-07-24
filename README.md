@@ -1,5 +1,7 @@
 # Manticore
-Mods
 
-An Amazing pack about stuff
-cum~
+### How to add mods
+
+```
+packwiz modrinth install <MODNAME>
+```
