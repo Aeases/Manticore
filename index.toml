@@ -16,6 +16,11 @@ hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
+file = "mods/rpg-origins.pw.toml"
+hash = "a148d6f200161ca56d84a84ad59cbaf10fdab1f6cb5f42abe853409e0d7f83ba"
+metafile = true
+
+[[files]]
 file = "mods/touhou-origins.pw.toml"
 hash = "3c7bf9d7ea0184d5fab57225defe057ef8583b214e90f0c868b769eca6740321"
 metafile = true
