@@ -1,3 +1,6 @@
 /*.md
 /*.mr
 /README.md
+/.vscode
+/.vscode/*
+
