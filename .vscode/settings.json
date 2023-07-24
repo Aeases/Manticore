@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.rightClickBehavior": "selectWord",
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "terminal.integrated.enableBell": true,
+    "gitlens.showWelcomeOnInstall": false,
+    "gitlens.showWhatsNewAfterUpgrades": false,
+    "gitlens.plusFeatures.enabled": false,
+    "gitlens.statusBar.enabled": true,
+    "gitlens.graph.minimap.dataType": "commits"
+}
