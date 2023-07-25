@@ -17,6 +17,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 metafile = true
 
@@ -86,6 +90,10 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
 metafile = true
 
 [[files]]
