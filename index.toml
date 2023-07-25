@@ -17,6 +17,14 @@ file = "mods/bountiful.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 metafile = true
 
@@ -62,6 +70,10 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
 metafile = true
 
 [[files]]
