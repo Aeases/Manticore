@@ -14,7 +14,7 @@
             "presentation": {
                 "reveal": "always",
                 "panel": "dedicated",
-                "focus": true,
+                "focus": false,
                 "clear": true
             }
         }
