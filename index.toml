@@ -49,10 +49,6 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 metafile = true
 
@@ -86,6 +82,10 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
@@ -127,6 +127,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 metafile = true
+
+[[files]]
+file = "resourcepacks/§9AVPBR+Retextured+R2.zip"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r2.2.1.zip"
