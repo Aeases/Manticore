@@ -1,0 +1,11 @@
+{
+    "enableWarning": false,
+    "lightVanillaNetherPortalWhenCrouching": true,
+    "netherPortalMode": "disabled",
+    "netherPortalOverlay": false,
+    "checkModInfoFromInternet": false,
+    "enableUpdateNotification": false,
+    "reducedPortalRendering": true,
+    "enableMirrorCreation": false,
+    "compatibilityRenderMode": false
+}
