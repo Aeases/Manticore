@@ -13,7 +13,35 @@ file = "config/yosbr/config/universal-graves/config.json"
 file = "config/yosbr/config/universal-graves/models/example.json"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -53,6 +81,10 @@ file = "mods/origins.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 metafile = true
 
@@ -82,6 +114,10 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
 metafile = true
 
 [[files]]
