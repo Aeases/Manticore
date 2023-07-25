@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "github.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "superant.mc-dp-icons",
+        "tamasfe.even-better-toml",
+        "sanaajani.taskrunnercode"
+    ]
+}

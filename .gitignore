@@ -1,0 +1,8 @@
+# Exclude exported CurseForge zip files
+Manticore*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+/builds
+/index.toml
