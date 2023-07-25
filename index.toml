@@ -13,6 +13,22 @@ file = "config/yosbr/config/universal-graves/config.json"
 file = "config/yosbr/config/universal-graves/models/example.json"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 metafile = true
 
