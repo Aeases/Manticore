@@ -6,15 +6,16 @@
         {
             "label": "Build .mrpack file",
             "type": "shell",
-            "command": "packwiz modrinth export && mkdir builds || mv ./Manticore*.mrpack ./builds/",
+            "command": "bash ./launcher/buildfile.sh",
             "problemMatcher": [],
             "options": {
                 "cwd": "${workspaceFolder}"
               },
             "presentation": {
                 "reveal": "always",
-                "panel": "new",
-                "focus": true
+                "panel": "dedicated",
+                "focus": true,
+                "clear": true
             }
         }
     ]
