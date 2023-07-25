@@ -41,7 +41,7 @@ file = "mods/bountiful.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api.pw.toml"
+file = "mods/carry-on.pw.toml"
 metafile = true
 
 [[files]]
@@ -50,6 +50,10 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cyberanner-ironchest.pw.toml"
 metafile = true
 
 [[files]]
@@ -62,6 +66,10 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
 metafile = true
 
 [[files]]
