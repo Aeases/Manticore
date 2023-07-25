@@ -6,7 +6,7 @@
         {
             "label": "Build .mrpack file",
             "type": "shell",
-            "command": "packwiz modrinth export && mkdir builds && mv ./Manticore*.mrpack ./builds/",
+            "command": "packwiz modrinth export && mkdir builds || mv ./Manticore*.mrpack ./builds/",
             "problemMatcher": [],
             "options": {
                 "cwd": "${workspaceFolder}"
