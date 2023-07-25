@@ -17,6 +17,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 metafile = true
 
@@ -34,6 +38,10 @@ metafile = true
 
 [[files]]
 file = "mods/bountiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -62,6 +70,10 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
 metafile = true
 
 [[files]]
