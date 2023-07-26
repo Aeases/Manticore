@@ -1,0 +1,24 @@
+{
+    "client": {
+      "searchUsingItemInHand": false,
+      "playSoundOnRequest": true,
+      "closeGuiOnFoundResults": true,
+      "fadeoutTimeTicks": 200,
+      "showSlotHighlights": true,
+      "randomScheme": true,
+      "colourScheme": "ARO",
+      "solidColour": -4531627,
+      "printSearchRequestsInChat": false,
+      "compatibility": {
+        "recipeBookSupport": false,
+        "jeiSupport": false,
+        "reiSupport": true,
+        "emiSupport": false
+      }
+    },
+    "common": {
+      "searchRangeBlocks": 8,
+      "doNestedSearch": true,
+      "printSearchTime": false
+    }
+  }
