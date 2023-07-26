@@ -1,0 +1,13 @@
+version:3465
+autoJump:false
+operatorItemsTab:false
+snooperEnabled:false
+guiScale:3
+maxFps:260
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip"]
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+onboardAccessibility:false

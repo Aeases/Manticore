@@ -7,7 +7,7 @@
     "enableUpdateNotification": false,
     "reducedPortalRendering": true,
     "enableMirrorCreation": false,
-    "compatibilityRenderMode": false,
+    "compatibilityRenderMode": true,
     "dimStackPreset": {
         "loop": false,
         "gravityTransform": false,
