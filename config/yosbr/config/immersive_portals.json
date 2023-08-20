@@ -1,0 +1,44 @@
+{
+    "enableWarning": false,
+    "lightVanillaNetherPortalWhenCrouching": true,
+    "netherPortalMode": "disabled",
+    "netherPortalOverlay": false,
+    "checkModInfoFromInternet": false,
+    "enableUpdateNotification": false,
+    "reducedPortalRendering": true,
+    "enableMirrorCreation": false,
+    "compatibilityRenderMode": true,
+    "dimStackPreset": {
+        "loop": false,
+        "gravityTransform": false,
+        "entries": [
+          {
+            "dimensionIdStr": "minecraft:overworld",
+            "scale": 1.0,
+            "flipped": false,
+            "horizontalRotation": 0.0,
+            "bedrockReplacementStr": "minecraft:obsidian",
+            "connectsPrevious": true,
+            "connectsNext": true
+          },
+          {
+            "dimensionIdStr": "sculk_depths:sculk_depthsdim",
+            "scale": 1.0,
+            "flipped": false,
+            "horizontalRotation": 0.0,
+            "bedrockReplacementStr": "minecraft:obsidian",
+            "connectsPrevious": true,
+            "connectsNext": true
+          },
+          {
+            "dimensionIdStr": "minecraft:the_nether",
+            "scale": 1.0,
+            "flipped": false,
+            "horizontalRotation": 0.0,
+            "bedrockReplacementStr": "minecraft:obsidian",
+            "connectsPrevious": true,
+            "connectsNext": false
+          }
+        ]
+      }
+}
