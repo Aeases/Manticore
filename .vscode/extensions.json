@@ -4,6 +4,8 @@
         "eamodio.gitlens",
         "superant.mc-dp-icons",
         "tamasfe.even-better-toml",
-        "sanaajani.taskrunnercode"
+        "sanaajani.taskrunnercode",
+        "spgoding.datapack-language-server",
+        "arcensoth.language-mcfunction"
     ]
 }
