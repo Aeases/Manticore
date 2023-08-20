@@ -6,6 +6,7 @@
         "tamasfe.even-better-toml",
         "sanaajani.taskrunnercode",
         "spgoding.datapack-language-server",
-        "arcensoth.language-mcfunction"
+        "arcensoth.language-mcfunction",
+        "misodee.vscode-nbt"
     ]
 }
